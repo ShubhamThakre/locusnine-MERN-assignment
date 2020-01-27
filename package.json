@@ -1,0 +1,25 @@
+{
+  "name": "locusnine-mern-assignment",
+  "version": "1.0.0",
+  "description": "locusnine-MERN-assignment. Create a table with CURD operation using MongoDB, Express JS, React JS and Node JS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamThakre/locusnine-MERN-assignment.git"
+  },
+  "author": "ShubhamThakre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamThakre/locusnine-MERN-assignment/issues"
+  },
+  "homepage": "https://github.com/ShubhamThakre/locusnine-MERN-assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3",
+    "nodemon": "^2.0.2"
+  }
+}
