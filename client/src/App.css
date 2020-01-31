@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+.logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+}
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+ .trigger:hover {
+  color: #1890ff;
+}
+
+
+
+/* Drawer CSS to add user box */
+.addUser_box_footer{
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  border-top: 1px solid rgb(233, 233, 233);
+  padding: 10px 16px;
+  background: rgb(255, 255, 255);
+  text-align: right;
+}
+
